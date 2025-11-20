@@ -1,1 +1,5 @@
-streamlittensorflow-cpunumpyPillow
+streamlit
+tensorflow
+numpy<2.0.0
+Pillow
+h5py
